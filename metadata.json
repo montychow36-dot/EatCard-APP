@@ -1,0 +1,6 @@
+{
+  "name": "食卡怪獸",
+  "description": "16-bit GBA / MOTHER 3 風格餐廳卡牌與社交決鬥 App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
